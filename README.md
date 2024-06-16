@@ -1,4 +1,4 @@
-# Face Mask Detection
+# Face Mask Classification
 
 ## Description
 This project aims to develop a face mask detection system using computer vision and deep learning. The model classifies images of people wearing masks and not wearing masks.
