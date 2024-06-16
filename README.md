@@ -14,7 +14,7 @@ This project aims to develop a face mask detection system using computer vision 
 - **Training Accuracy:** 99.72%
 - **Validation Accuracy:** 91.73%
 - Utilized Convolutional Neural Networks (CNN) for image classification.
-- Deployed the model using Streamlit for real-time face mask detection.
+- Integrated the model using Streamlit for real-time face mask detection.
 
 ## Installation
 ```bash
