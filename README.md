@@ -16,6 +16,10 @@ This project aims to develop a face mask detection system using computer vision 
 - Utilized Convolutional Neural Networks (CNN) for image classification.
 - Integrated the model using Streamlit for real-time face mask detection.
 
+## Demo
+
+https://www.youtube.com/watch?v=8q5sXruFF2o
+
 ## Installation
 ```bash
 pip install -r requirements.txt
